@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    color: goldenrod;
+}
+
+/* CLASSES */
+.logo {
+    color: red;
+    font-size: 100px;
+}
+
+.inputWrapper {
+    font-size: 50px;
+}
+
+.googleApp {
+    color: green;
+}
+
+.appLogo {
+    color: darkblue;
+}
+
+/* IDS */
+#topBar {
+    font-size: 25px;
+    color: purple;
+}
